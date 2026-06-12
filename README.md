@@ -1,3 +1,4 @@
+<img width="1915" height="877" alt="ETL_pipeline_view" src="https://github.com/user-attachments/assets/adcc25bb-c626-446d-b677-d1ff3e4983f7" />
 # Databricks Flights Data Pipeline
 
 This is an end-to-end data engineering project I built using Databricks Lakeflow Declarative Pipelines. It processes real airline data — flights, bookings, passengers, and airports — through a structured pipeline that cleans, transforms, and joins everything together so it's ready for reporting.
